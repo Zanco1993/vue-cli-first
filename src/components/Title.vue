@@ -11,5 +11,10 @@ export default {
 </script>
 
 <style>
-
+    h1 {
+    color: red;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px;
+    }
 </style>
